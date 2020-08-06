@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey there, 
 
+I'm Jaylan! Thank you for checking this out.
 <!--
 **jaylanw/JaylanW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
