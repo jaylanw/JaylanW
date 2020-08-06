@@ -1,7 +1,7 @@
 ### Hey there, 
 
-I’m Jaylan!
-Here on Github you'll catch a small glimpse of my creativity. To see more checkout [my portfolio.](https://bootstrapphotog.com/)
+I’m Jaylan!  
+Here on Github you'll catch a small glimpse of my creativity.  To see more checkout [my portfolio.](https://bootstrapphotog.com/)
 
 
 
