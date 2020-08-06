@@ -1,12 +1,11 @@
-### Hey there, 
+## Hey there, 
 
 I’m Jaylan!  
 Here on Github you'll catch a small glimpse of my creativity.  To see more checkout [my portfolio.](https://bootstrapphotog.com/)
-
-
-
-
-
+<br>
+<br>
+I'm a Texas native who loves to create!  
+Topo Chico drinker, book reader, podcast listener, and total music lover. 
 
 <!--
 **jaylanw/JaylanW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
