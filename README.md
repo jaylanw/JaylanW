@@ -1,6 +1,13 @@
 ### Hey there, 
 
-I'm Jaylan! Thank you for checking this out.
+I’m Jaylan!
+Here on Github you'll catch a small glimpse of my creativity. To see more checkout [my portfolio.](https://bootstrapphotog.com/)
+
+
+
+
+
+
 <!--
 **jaylanw/JaylanW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
