@@ -1,7 +1,7 @@
 ## Hey there, 
 
 I’m Jaylan! I'm a Texas native who loves to create!    
-Here on Github you'll catch a small glimpse of my creativity.  To see more, checkout [my portfolio!](https://bootstrapphotog.com/) 
+Here on Github you'll catch a small glimpse of my creativity.  To see more, checkout [my portfolio!](https://jaylanw.github.io/portfolio/) 
 <br>
 <br> 
 
